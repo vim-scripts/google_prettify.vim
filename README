@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3751
+
+A color scheme (gvim only) similar to the one used by the google-code-prettify at http://code.google.com/p/google-code-prettify/ and that google use at most of their sites, notably google code.
+
+I had to study documentation for Google App Engine, and switching from their syntax color scheme to the on I was using was a pain, so I made this quick and dirty color scheme (I am a newbie, this is my first color scheme)
+
+So it closely copies the examples found on their README page, except for the html which copied from the source view of chromium (which is also the color code used in firefox !)
+
